@@ -142,4 +142,6 @@ body {
     width: 45%;
     margin-right: 20px;
   }
+  .close-modal{
+    right: 0;
 }
