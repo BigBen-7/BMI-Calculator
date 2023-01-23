@@ -147,7 +147,7 @@ body {
   @media screen  and (max-width: 500px){
     .close-modal{
     right: -3rem;
-      top: -2rem;
+      top: -1rem;
 
     }
   }
