@@ -137,6 +137,7 @@ body {
   }
   .modal {
     left: 20%;
+    width: 40%;
   }
   #bmi-result {
     width: 45%;
