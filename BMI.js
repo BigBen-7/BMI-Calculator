@@ -1,7 +1,3 @@
-alert(
-  "Get monthly health tips to  maintain your weight when you subscribe to our premuim package."
-);
-
 const btnEl = document.getElementById("btn");
 const bmiInputEl = document.getElementById("bmi-result");
 const weightConditionEl = document.getElementById("weight-condition");
