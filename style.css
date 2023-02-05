@@ -7,6 +7,19 @@ body {
   align-items: center;
   font-family: "Courier New", Courier, monospace;
 }
+.ad-space {
+  border: 2px dotted #fff;
+  height: 90vh;
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+}
+.ad-space h1 {
+  line-height: 50px;
+  text-align: center;
+}
 
 .container {
   background: #02315e;
