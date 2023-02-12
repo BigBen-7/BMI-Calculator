@@ -129,6 +129,9 @@ body {
   backdrop-filter: blur(3px);
   z-index: 5;
 }
+.dis{
+color: red;
+}
 
 @media screen and (max-width: 756px) {
   .container {
