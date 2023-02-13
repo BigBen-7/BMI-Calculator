@@ -72,7 +72,7 @@ body {
 #bmi-result {
   color: #fff;
   background-color: #000;
-  margin: auto;
+  margin: auto 50px;
 }
 
 .close-modal {
@@ -170,7 +170,7 @@ color: #fff;
   }
   #bmi-result {
     width: 45%;
-    margin: auto;
+    margin-right: 20px;
   }
   
   .get {
