@@ -7,19 +7,6 @@ body {
   align-items: center;
   font-family: "Courier New", Courier, monospace;
 }
-/* .ad-space {
-  border: 2px dotted #fff;
-  height: 90vh;
-  width: 30%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 25px;
-}
-.ad-space h1 {
-  line-height: 50px;
-  text-align: center;
-} */
 
 .container {
   background: #02315e;
@@ -27,7 +14,6 @@ body {
   display: flex;
   flex-direction: column;
   border-radius: 5px;
-  /* box-shadow: 0 35px 68px 0 rgba(5, 5, 5, 0.42), inset 0 -8px 16px 0 darkgrey; */
   margin: 5px;
 }
 .heading {
