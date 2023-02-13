@@ -193,12 +193,6 @@ color: #fff;
     line-height: 20px;
   }
 
-  .tips-list li {
-    font-size: 14px;
-    text-align: start;
-    margin: 2px;
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  }
 }
   
   @media screen  and (max-width: 500px){
