@@ -183,14 +183,14 @@ color: #fff;
     width: 45%;
     margin-right: 20px;
   }
-  .tips {
-    text-align: center;
-    font-size: 12px;
+  .t {
+   
   }
   .get {
+     text-align: center;
     font-weight: bolder;
-            text-transform: capitalize;
-            font-size: 18px;
+    text-transform: capitalize;
+     font-size: 14px;
   }
 
 }
