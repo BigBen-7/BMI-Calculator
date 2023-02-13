@@ -135,6 +135,9 @@ body {
 .dis{
 color: #fff;
 }
+.strong{
+text-align: center;
+}
 
 
 @media screen and (max-width: 756px) {
