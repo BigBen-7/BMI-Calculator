@@ -188,9 +188,9 @@ color: #fff;
     font-size: 12px;
   }
   .get {
-    font-size: 14px;
-    text-align: justify;
-    line-height: 25px;
+    font-weight: bolder;
+            text-transform: capitalize;
+            font-size: 18px;
   }
 
 }
