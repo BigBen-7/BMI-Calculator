@@ -135,9 +135,7 @@ body {
 .dis{
 color: #fff;
 }
-.strong{
-color:  #2f70af;
-}
+
 
 @media screen and (max-width: 756px) {
   .container {
