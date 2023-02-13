@@ -118,6 +118,22 @@ body {
   border-radius: 25px;
   z-index: 10;
 }
+/* TEXT-ANIMATE */
+.moving-text {
+  position: relative;
+  left: -100px;
+  white-space: nowrap;
+  animation: move-right 5s linear infinite;
+}
+@keyframes move-right {
+  from {
+    left: -80px;
+  }
+
+  to {
+    left: 55%;
+  }
+}
 
 .overlay {
   position: absolute;
