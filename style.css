@@ -181,11 +181,11 @@ color: #fff;
   }
    @keyframes move-right {
     from {
-      left: -20%;
+      left: -50px;
     }
 
     to {
-      left: 50%;
+      left: 40%;
     }
   }
 
