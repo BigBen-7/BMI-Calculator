@@ -183,6 +183,22 @@ color: #fff;
     width: 45%;
     margin-right: 20px;
   }
+  .tips {
+    text-align: center;
+    font-size: 12px;
+  }
+  .tips-para {
+    font-size: 14px;
+    text-align: justify;
+    line-height: 20px;
+  }
+
+  .tips-list li {
+    font-size: 14px;
+    text-align: start;
+    margin: 2px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
 }
   
   @media screen  and (max-width: 500px){
