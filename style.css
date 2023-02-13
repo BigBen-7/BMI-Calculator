@@ -170,7 +170,7 @@ color: #fff;
   }
   #bmi-result {
     width: 45%;
-    margin: auto;
+    margin: auto 50px;
   }
   
   .get {
