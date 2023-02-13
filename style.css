@@ -70,6 +70,7 @@ body {
   text-align: center;
 }
 #bmi-result {
+  width:50%;
   color: #fff;
   background-color: #000;
   margin: auto 100px;
