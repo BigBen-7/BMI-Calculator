@@ -112,7 +112,7 @@ body {
   z-index: 10;
 }
 /* TEXT-ANIMATE */
-.moving-text {
+/* .moving-text {
   position: relative;
   left: -100px;
   white-space: nowrap;
@@ -121,6 +121,27 @@ body {
 @keyframes move-right {
   from {
     left: -80px;
+  }
+
+  to {
+    left: 55%;
+  }
+} */
+
+/* TEXT-ANIMATE */
+.moving-text {
+  width: 140px;
+  position: relative;
+  left: -100px;
+  white-space: nowrap;
+  animation: move-right 5s linear infinite;
+}
+.moving-text a {
+  color: green;
+}
+@keyframes move-right {
+  from {
+    left: -30px;
   }
 
   to {
