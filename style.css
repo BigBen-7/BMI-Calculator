@@ -38,6 +38,7 @@ body {
   margin: 5px;
 }
 .heading {
+  text-align: center;
   font-size: 30px;
   color: #fff;
   padding: 10px 5px;
