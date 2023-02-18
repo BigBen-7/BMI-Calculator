@@ -7,11 +7,26 @@ body {
   align-items: center;
   font-family: "Courier New", Courier, monospace;
 }
+/* 1st AD STYLING */
 .ad-container {
-  border: 2px solid #2f70af;
+  background-image: url(./images/bannerblue.avif);
+  background-position: center;
+  background-size: cover;
+  object-fit: fill;
+  height: 200px;
 }
-.ad > img {
-  width: 20%;
+.ad {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.class {
+  margin: auto 50px;
+}
+.ad img {
+  width: 100%;
+  height: 29vh;
+  object-fit: 100%;
 }
 
 .container {
@@ -111,22 +126,6 @@ body {
   border-radius: 25px;
   z-index: 10;
 }
-/* TEXT-ANIMATE */
-/* .moving-text {
-  position: relative;
-  left: -100px;
-  white-space: nowrap;
-  animation: move-right 5s linear infinite;
-}
-@keyframes move-right {
-  from {
-    left: -80px;
-  }
-
-  to {
-    left: 55%;
-  }
-} */
 
 /* TEXT-ANIMATE */
 .moving-text {
@@ -134,10 +133,21 @@ body {
   position: relative;
   left: -100px;
   white-space: nowrap;
+  font-weight: bolder;
+  animation: move-right 5s linear infinite;
+}
+.text {
+  width: 140px;
+  position: relative;
+  left: -100px;
+  white-space: nowrap;
   animation: move-right 5s linear infinite;
 }
 .moving-text a {
-  color: green;
+  color: #000;
+}
+.text {
+  color: #fff;
 }
 @keyframes move-right {
   from {
@@ -169,6 +179,14 @@ color: #fff;
   text-align: center;
 }
 
+/* VIDEO STYLING */
+#myVideo::-webkit-media-controls {
+  display: none !important;
+}
+#myVideo {
+  margin: auto 20px;
+  width: 500px;
+}
 
 
 @media screen and (max-width: 756px) {
