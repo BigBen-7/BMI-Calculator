@@ -197,6 +197,13 @@ color: #fff;
   .container {
     width: 80%;
   }
+   .ad img {
+    width: 30%;
+    margin-top: 1.1rem;
+  }
+  #myVideo {
+    width: 90%;
+  }
   .heading {
     text-align: center;
   }
