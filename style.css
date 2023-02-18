@@ -182,7 +182,7 @@ color: #fff;
 
 /* VIDEO STYLING */
 #myVideo::-webkit-media-controls {
-  display: none !important;
+/*   display: none !important; */
 }
 #myVideo {
   margin: auto 20px;
