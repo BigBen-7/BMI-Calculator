@@ -185,7 +185,8 @@ color: #fff;
 /*   display: none !important; */
 }
 #myVideo {
-  margin: auto 20px;
+  display: block;
+  margin: 0 auto;
   width: 500px;
 }
 
